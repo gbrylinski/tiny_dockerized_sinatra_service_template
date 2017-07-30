@@ -1,0 +1,5 @@
+.bundle/*
+Gemfile*
+build.sh
+db/*.sqlite
+log/*

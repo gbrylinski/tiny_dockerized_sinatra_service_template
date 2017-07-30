@@ -1,0 +1,5 @@
+db/*.sqlite
+.bundle/*
+bundle/*
+log/*
+Gemfile.lock
